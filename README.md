@@ -1,5 +1,5 @@
 # netacad_practice
 
-Repositorio de ejercicios relacionados con el curso "PCAP: Programming Essentials in Python de Netacad" 
+Repositorio de ejercicios de práctica relacionados con el curso "PCAP: Programming Essentials in Python" de Cisco Netacad 
 
 https://www.netacad.com/es/courses/programming/pcap-programming-essentials-python
